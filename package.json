@@ -1,0 +1,24 @@
+{
+  "name": "weather-api",
+  "version": "0.0.1",
+  "description": "Install this simple package and check weather on command line interface: Powered by Dark Sky (request the api-key at https://darksky.net/poweredby/) ",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eaccmk/weather-api.git"
+  },
+  "keywords": [
+    "weather",
+    "climate",
+    "weather-cli"
+  ],
+  "author": "Millan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eaccmk/weather-api/issues"
+  },
+  "homepage": "https://github.com/eaccmk/weather-api#readme"
+}
